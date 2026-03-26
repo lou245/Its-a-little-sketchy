@@ -1,0 +1,7 @@
+Flask==2.2.5
+requests==2.31.0
+gunicorn==20.1.0
+cloudinary==1.33.0
+flask-cors==4.0.0
+setuptools==68.0.0
+python-dotenv==1.0.0
