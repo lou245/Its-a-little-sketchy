@@ -40,6 +40,6 @@ def list_videos():
 @app.route('/gallery')
 def gallery():
     return app.send_static_file('gallery.html')
-/gallery
+
 if __name__ == '__main__':
     app.run(debug=True)
