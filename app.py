@@ -37,6 +37,6 @@ def list_videos():
     # Fetch list of videos (Implement your logic to retrieve video data)
     videos = []  # Example list of videos
     return jsonify({'videos': videos}), 200
-
+/gallery
 if __name__ == '__main__':
     app.run(debug=True)
